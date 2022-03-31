@@ -101,6 +101,7 @@ $ npm i -D @babel/plugin-transform-runtime
 ```
 ```js
 .babelrc.js에 작성
+
 plugins : [
     ['@babel/plugin-transform-runtime']
   ]
