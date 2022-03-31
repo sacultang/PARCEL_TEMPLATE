@@ -80,6 +80,7 @@ $ npm i -D @babel/preset-env
 
 ```js
  .babelrc.js에 작성
+ 
 module.exports = {
   presets:['@babel/preset-env']
 }
